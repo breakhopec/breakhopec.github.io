@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://breakhopec.github.io/"/>
-  <updated>2019-10-01T12:56:20.934Z</updated>
+  <updated>2019-10-02T10:15:02.149Z</updated>
   <id>http://breakhopec.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://breakhopec.github.io/2019/10/01/hello-world/"/>
-    <id>http://breakhopec.github.io/2019/10/01/hello-world/</id>
-    <published>2019-10-01T12:56:20.934Z</published>
-    <updated>2019-10-01T12:56:20.934Z</updated>
+    <title>Hello world</title>
+    <link href="http://breakhopec.github.io/2019/10/02/hello-world/"/>
+    <id>http://breakhopec.github.io/2019/10/02/hello-world/</id>
+    <published>2019-10-02T08:55:00.000Z</published>
+    <updated>2019-10-02T10:15:02.149Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,17 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h2 id=&quot;emmm-写个什么标题呢…&quot;&gt;&lt;a href=&quot;#emmm-写个什么标题呢…&quot; class=&quot;headerlink&quot; title=&quot;emmm 写个什么标题呢…&quot;&gt;&lt;/a&gt;emmm 写个什么标题呢…&lt;/h2&gt;&lt;h3 id=&quot;这个站…&quot;&gt;&lt;a
         
       
     
     </summary>
     
     
+      <category term="Aboutme" scheme="http://breakhopec.github.io/categories/Aboutme/"/>
+    
+    
+      <category term="Aboutme" scheme="http://breakhopec.github.io/tags/Aboutme/"/>
     
   </entry>
   

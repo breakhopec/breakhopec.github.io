@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2019/10/01/hello-world/"/>
-      <url>/2019/10/01/hello-world/</url>
+      <title>Hello world</title>
+      <link href="/2019/10/02/hello-world/"/>
+      <url>/2019/10/02/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="emmm-写个什么标题呢…"><a href="#emmm-写个什么标题呢…" class="headerlink" title="emmm 写个什么标题呢…"></a>emmm 写个什么标题呢…</h2><h3 id="这个站…"><a href="#这个站…" class="headerlink" title="这个站…"></a>这个站…</h3><p>其实很早以前建过一个 blog，后来因为没时间打理于是关掉了。现在突然又想建来玩玩，没事写写自己的心情和日常也挺好，反正留个站在这里也不是什么坏事。</p><h3 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h3><p>现在还是个学生，不有趣，兴趣广泛<del>但是都不擅长</del>，不太擅长交流但希望多认识一些有趣的人…暂时就这样吧。</p><p>只是个普通推油。</p><blockquote><p>有人把推油分为三类：第一类是普通推油，即做完一事发一推；第二类是轻度推特用户，做事前先发一推；重度用户，发一推好像事已经做了w</p></blockquote><p>周围没有人和我有共同语言。来到了这里发现了一个 colorful 的天地，什么有趣的人都有，之后就没离开了。</p><p>除了学习什么都不会(？)以后可能会做软件工程师或者研究通信虽然现在什么也不懂但在学习之外的其他领域现在也很努力哦(・・;)</p><p>一起加油吧！</p>]]></content>
       
       
+      <categories>
+          
+          <category> Aboutme </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Aboutme </tag>
+            
+        </tags>
       
     </entry>
     
